@@ -1,5 +1,5 @@
 var images = [
-  
+  "https://www.samsgazebo.com/cdn/shop/files/gps_generated_238c7ad7-573c-4233-b089-2322b7380fc4-755748.png?v=1723490180",
   "https://images.pexels.com/photos/206359/pexels-photo-206359.jpeg?cs=srgb&dl=pexels-pixabay-206359.jpg&fm=jpg",
   "https://wallpaperinn.co.za/wp-content/uploads/2022/04/Jungle-Adventure-Mural-46481-scaled.jpg",
   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFebVNmBsu_s2dDLNTMTYi-W2KE1tRGfA7PA&s",
