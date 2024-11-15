@@ -1,0 +1,86 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  background-image: url(https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg);
+  }
+  
+  .slider {
+    width: 50%;
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(236, 236, 236);
+    margin: 0 auto;
+    
+  }
+  
+  .slider img {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    object-fit: cover;
+  }
+  
+  .left-arrow,
+  .right-arrow {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 3px solid black;
+    color: black;
+    font-size: 1.5em;
+    position: absolute;
+    top: 45%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .left-arrow {
+    left: 50px;
+  }
+  .right-arrow {
+    right: 50px;
+  }
+  
+  .box {
+    width: 60%;
+    height: 25%;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 275px;
+    justify-content: space-evenly;
+    border-radius: 0px 0px 11px 11px;
+    
+  }
+  
+  .box1,
+  .box2,
+  .box3,
+  .box4 {
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    border-radius: 5px;
+    align-items: center;
+    border: 1px solid  black;
+    
+    
+  }
+  
+  .box img {
+    width: 100%;
+    height: 100%;
+  }
+
+
+
+  
